@@ -1,6 +1,6 @@
 {
   "handoff_version": "1.0",
-  "status": "PENDING_HUMAN_DIRECTION_APPROVAL",
+  "status": "READY_FOR_ASSET_BUILDER",
   "campaign": {
     "name": "Build What's Next",
     "objective": "Generate qualified discovery calls from business leaders who need software development capability without building a large permanent engineering team.",
@@ -8,8 +8,8 @@
     "primary_cta": "Book a discovery call",
     "geography": ["Ireland", "UK"],
     "timing": null,
-    "selected_creative_territory_id": null,
-    "direction_approval_status": "PENDING_HUMAN_DIRECTION_APPROVAL"
+    "selected_creative_territory_id": "T1",
+    "direction_approval_status": "APPROVED_FOR_ASSET_BUILD"
   },
   "audience": {
     "primary": {
@@ -87,7 +87,6 @@
     "available_brand_assets": ["FORGE LABS wordmark", "geometric F mark", "light and dark logo variants", "social avatar"]
   },
   "gaps_and_blockers": [
-    {"type": "ASSUMPTION", "detail": "T1 is the recommended territory but has not been selected by a human.", "impact": "Assets must not be drafted.", "required_decision": "Select T1, T2, or T3."},
     {"type": "GAP", "detail": "Budget, media plan, dates, conversion URL, tracking, and channel setup are absent.", "impact": "No launch plan, flighting, retargeting, or conversion implementation can be approved.", "required_decision": "Supply channel-specific setup decisions before activation."},
     {"type": "GAP", "detail": "OOH/DOOH placement context and podcast buy context are absent.", "impact": "Physical and podcast assets remain deferred.", "required_decision": "Supply placement/show, audience, specs, dates, and budget, or remove these formats."},
     {"type": "GAP", "detail": "Outbound data, consent/lawful basis, and sender setup are absent.", "impact": "Cold-email content cannot be sent or approved for use.", "required_decision": "Complete legal and operational review before outreach."}

@@ -1,7 +1,8 @@
 # Forge Labs — Build What's Next Campaign Planner Draft
 
-**Status:** `PENDING_HUMAN_DIRECTION_APPROVAL`  
-**Scope:** Campaign strategy and asset plan only. No content assets have been generated or approved.
+**Status:** `READY_FOR_ASSET_BUILDER`
+**Selected territory:** `T1 — Your next software team` (human-approved)
+**Scope:** Campaign strategy and asset plan. Generated assets remain subject to human review.
 
 ## Validation summary
 
@@ -47,45 +48,45 @@
 | No need to build a large permanent engineering team. | VERIFIED | Forge Labs §§10–11 | May use. |
 | Faster than a competitor, cost savings, outcomes, rankings, customer proof, or guarantees. | PROHIBITED / UNVERIFIED | Forge Labs §12 | Do not use. |
 
-## Creative territories — human selection required
+## Creative territories
 
 ### T1 — Your next software team
 
-**Recommendation:** `RECOMMENDED`  
-**Insight:** Leaders with an important software initiative need capability, not necessarily permanent headcount.  
-**Core message:** Your next software team doesn't have to be on your payroll.  
-**Emotional angle:** Relief and momentum without a false promise of effortless delivery.  
-**Headline direction:** `YOUR NEXT SOFTWARE TEAM DOESN'T HAVE TO BE ON YOUR PAYROLL.`  
-**Proof to use:** Senior-led delivery; flexible engagement; end-to-end capability.  
-**Best-fit channels:** OOH/DOOH, LinkedIn, display, email, search, landing page, podcast.  
+**Recommendation:** `RECOMMENDED`
+**Insight:** Leaders with an important software initiative need capability, not necessarily permanent headcount.
+**Core message:** Your next software team doesn't have to be on your payroll.
+**Emotional angle:** Relief and momentum without a false promise of effortless delivery.
+**Headline direction:** `YOUR NEXT SOFTWARE TEAM DOESN'T HAVE TO BE ON YOUR PAYROLL.`
+**Proof to use:** Senior-led delivery; flexible engagement; end-to-end capability.
+**Best-fit channels:** OOH/DOOH, LinkedIn, display, email, search, landing page, podcast.
 **Risk:** Must not imply outsourcing is automatically cheaper or faster.
 
 ### T2 — From idea to production
 
-**Recommendation:** `ALTERNATIVE`  
-**Insight:** Fragmented discovery, design, engineering, and launch work can slow a serious initiative.  
-**Core message:** From product idea to production, with one senior team.  
-**Emotional angle:** Confidence in a coherent delivery path.  
-**Headline direction:** `FROM IDEA TO PRODUCTION.`  
-**Proof to use:** End-to-end capability; production-focused delivery.  
-**Best-fit channels:** Landing page, LinkedIn carousel, email, podcast, services messaging.  
+**Recommendation:** `ALTERNATIVE`
+**Insight:** Fragmented discovery, design, engineering, and launch work can slow a serious initiative.
+**Core message:** From product idea to production, with one senior team.
+**Emotional angle:** Confidence in a coherent delivery path.
+**Headline direction:** `FROM IDEA TO PRODUCTION.`
+**Proof to use:** End-to-end capability; production-focused delivery.
+**Best-fit channels:** Landing page, LinkedIn carousel, email, podcast, services messaging.
 **Risk:** Keep it concrete; do not claim a guaranteed launch date or outcome.
 
 ### T3 — Senior thinking, AI-powered delivery
 
-**Recommendation:** `ALTERNATIVE`  
-**Insight:** Buyers want modern AI-assisted delivery without giving up experienced engineering judgment.  
-**Core message:** Senior software expertise. AI-powered delivery.  
-**Emotional angle:** Modern capability with technical reassurance.  
-**Headline direction:** `SENIOR THINKING. AI-POWERED DELIVERY.`  
-**Proof to use:** Senior-led delivery; AI-assisted development.  
-**Best-fit channels:** LinkedIn, display, podcast, social visual, landing page.  
+**Recommendation:** `ALTERNATIVE`
+**Insight:** Buyers want modern AI-assisted delivery without giving up experienced engineering judgment.
+**Core message:** Senior software expertise. AI-powered delivery.
+**Emotional angle:** Modern capability with technical reassurance.
+**Headline direction:** `SENIOR THINKING. AI-POWERED DELIVERY.`
+**Proof to use:** Senior-led delivery; AI-assisted development.
+**Best-fit channels:** LinkedIn, display, podcast, social visual, landing page.
 **Risk:** Avoid AI hype, automation guarantees, and unapproved speed claims.
 
-## Recommended platform if T1 is selected
+## Approved platform — T1
 
-**Big idea:** Build the capability your next initiative needs, without building the permanent department it does not.  
-**Visual / experiential anchor:** A dark Forge Black field with structured, interlocking modular blocks resolving into a clear product/system shape. Use a single Forge Orange connection or action point. The modular system represents a delivery team assembled for the work; it must not imply a customer system or outcome.  
+**Big idea:** Build the capability your next initiative needs, without building the permanent department it does not.
+**Visual / experiential anchor:** A dark Forge Black field with structured, interlocking modular blocks resolving into a clear product/system shape. Use a single Forge Orange connection or action point. The modular system represents a delivery team assembled for the work; it must not imply a customer system or outcome.
 **Tone:** Direct, intelligent, practical, confident, and human.
 
 ### Cross-channel coherence rules
@@ -144,20 +145,20 @@ The following are asset briefs only, not generated content. They become availabl
 
 ## CAMPAIGN ASSET BUILDER / CONTENT CREATION AGENT HANDOFF
 
-**STATUS:** `PENDING_HUMAN_DIRECTION_APPROVAL`  
-**CAMPAIGN:** Build What's Next  
-**OBJECTIVE:** Generate qualified discovery calls from Ireland/UK business leaders with an active software or digital initiative and insufficient internal capacity.  
-**PRIMARY AUDIENCE:** CTO, CIO, CEO, COO, Head of Product, VP Engineering, and Digital Transformation Director at 50–1,000 employee organisations.  
-**EXCLUSIONS:** Outside the approved size range; no active initiative or capacity gap; freelancer-only requirement; unsupported claims.  
-**BUYING TRIGGER:** Active initiative plus insufficient internal engineering capacity.  
-**OFFER / PROPOSITION:** Senior software expertise. AI-powered delivery.  
-**MASTER MESSAGE:** Your next software team doesn't have to be on your payroll.  
+**STATUS:** `READY_FOR_ASSET_BUILDER`
+**CAMPAIGN:** Build What's Next
+**OBJECTIVE:** Generate qualified discovery calls from Ireland/UK business leaders with an active software or digital initiative and insufficient internal capacity.
+**PRIMARY AUDIENCE:** CTO, CIO, CEO, COO, Head of Product, VP Engineering, and Digital Transformation Director at 50–1,000 employee organisations.
+**EXCLUSIONS:** Outside the approved size range; no active initiative or capacity gap; freelancer-only requirement; unsupported claims.
+**BUYING TRIGGER:** Active initiative plus insufficient internal engineering capacity.
+**OFFER / PROPOSITION:** Senior software expertise. AI-powered delivery.
+**MASTER MESSAGE:** Your next software team doesn't have to be on your payroll.
 **CTA:** Book a discovery call.
 
-**SELECTED CREATIVE TERRITORY:** Human selection required. T1 is recommended; T2 and T3 are valid alternatives.  
-**DO NOT GENERATE ASSETS UNTIL:** a human selects T1, T2, or T3 and confirms the deferred-channel decisions as needed.
+**SELECTED CREATIVE TERRITORY:** T1 — Your next software team.
+**DIRECTION APPROVAL:** Human-approved for asset build; individual assets still require human review.
 
-**APPROVED CLAIMS AND PROOF:** Use only the VERIFIED entries in the claim register.  
+**APPROVED CLAIMS AND PROOF:** Use only the VERIFIED entries in the claim register.
 **DO NOT USE:** Quantified speed/cost claims, rankings, named customers, testimonials, awards, statistics, case studies, guarantees, or any unsupported comparison.
 
 **BUILDER RULES:** Generate only the selected planned assets as `DRAFT — REQUIRES HUMAN REVIEW`; keep each execution channel-native; retain the asset ID, audience, message, CTA, proof, and constraints; run evidence, brand, channel-fit, coherence, and CTA QA; never publish or self-approve.
