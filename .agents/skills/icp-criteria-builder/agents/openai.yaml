@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICP Criteria Builder"
+  short_description: "Build precise, evidence-aware ICP criteria"
+  default_prompt: "Use $icp-criteria-builder to define a precise, evidence-aware ICP for this offer."
