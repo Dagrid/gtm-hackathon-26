@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workforce X Prospecting"
+  short_description: "Build qualified UK and Ireland prospect lists"
+  default_prompt: "Use $workforce-x-prospecting to build a sourced list of qualified Workforce X prospect accounts."
